@@ -10,5 +10,8 @@ ambiente administrador
 user - administrador
 senha - tecweb_cod
 
+Criação de Etiquetas - Link para programa LabelJoy
+Padrão Etiquetas - Modelo usado pelo cliente
+
 
 
